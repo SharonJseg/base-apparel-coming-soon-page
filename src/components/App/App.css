@@ -1,11 +1,12 @@
 .page {
   text-align: center;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   justify-content: space-between;
-  /* align-items: center; */
 }
 
-.hero-image {
-  object-fit: cover;
+@media screen and (max-width: 475px) {
+  .page {
+    flex-direction: column;
+  }
 }
