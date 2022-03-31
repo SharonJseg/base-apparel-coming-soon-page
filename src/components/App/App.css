@@ -1,0 +1,11 @@
+.page {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+
+.hero-image {
+  object-fit: cover;
+}

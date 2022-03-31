@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('JosefinSans-Light.woff') format('woff'),
+    url('JosefinSans-Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('JosefinSans-Regular.woff') format('woff'),
+    url('JosefinSans-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('JosefinSans-SemiBold.woff') format('woff'),
+    url('JosefinSans-SemiBold.woff2') format('woff2');
+}

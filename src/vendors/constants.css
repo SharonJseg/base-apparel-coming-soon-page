@@ -1,0 +1,16 @@
+:root {
+  /* Font families */
+  --ff: 'Josefin Sans', sans-serif;
+
+  /* Font Sizes */
+  --fs-small: 0.875rem;
+  --fs-base: 1rem;
+  --fs-medium: 2.5rem;
+  --fs-big: 4rem;
+
+  /* Colors */
+  --clr-gradient: linear-gradient(135deg, #f8bfbf 0%, #ee8b8b 100%);
+  --clr-dark-brown: #423a3a;
+  --clr-skin: #ce9898;
+  --clr-pink: #ee8b8b;
+}
