@@ -49,7 +49,7 @@ const Form = () => {
         {formik.errors.email && (
           <img src={error} alt='error icon' className='hero-error-icon' />
         )}
-        <button className='hero-submit'>
+        <button className='hero-submit' type='submit'>
           <img src={arrow} alt='arrow icon' />
         </button>
       </div>
